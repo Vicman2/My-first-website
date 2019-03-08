@@ -1,0 +1,200 @@
+body{
+	background-image: url("../Images/BG1.jpg") !important;
+}
+@font-face{
+	font-family: 'Tumbling Down';
+	src: url('Tumbling Down.otf');
+}
+@font-face{
+	font-family: 'Phyton Script Demo';
+	src: url('Phyton Script Demo.ttf');
+}
+@font-face{
+	font-family: 'Patty Sans';
+	src: url('Patty Sans.ttf');
+}
+@font-face{
+	font-family: 'I Shot the Serif';
+	src: url('I Shot the Serif.ttf');
+}
+@font-face{
+	font-family: 'HalovenDemo';
+	src: url('HalovenDemo.ttf');
+}
+@font-face{
+	font-family: 'Comic Sans Ms';
+	src: url('ComicSansMS3.ttf');
+}
+.navbar{
+	margin-bottom:0;
+	background: rgb(177, 49, 0);
+	z-index: 999;
+	font-size: 15px !important;
+	letter-spacing: 1px;
+	line-height: 4px;
+	border-radius:0;
+	font-style:italic;
+	letter-spacing:4px
+}
+#logo{
+	background:rgb(177, 49, 5);
+}
+
+.mot{
+	font-family: Comic Sans Ms;
+	letter-spacing: 2px;
+}
+#acry{
+	text-align:right;
+	color:rgb(177, 49, 5);
+	font-style:italic;
+	background: #f4a460;
+	letter-spacing:3px;
+	font-family:Comic-Sans Ms;
+}
+
+.navbar li a, .navbar .navbar-brand{
+	color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a{
+	color:rgb(177, 49, 5) !important;
+	background-color: #fff !important;
+}
+.mtitle{
+	background-color:rgb(128, 128, 128);
+	font-family: 'I Shot the Serif';
+	font-size: 15px;
+	letter-spacing: 2px;
+	font-weight:Bold;
+	text-align: center;
+	text-transform: uppercase;
+	padding:4px
+	
+}
+
+.demacator{
+	weight: 100px;
+	background-color: #f4a460;
+	border: 4px dotted black;
+}
+
+.breadcrumb>li :hover{
+	text-decoration:none;
+}
+
+.musician{
+	height:200px;
+	width: 250px;
+}
+.footer{
+	background:rgba(0, 0, 0, 0.9);
+	color:white;
+	text-align:center;
+}
+.head{
+	text-align:center;
+	font-family:HalovenDemo;
+	color:rgb(177, 49, 5);
+}
+.slideshow{
+	width:70% !important;
+	padding-left:40px;
+}
+.footer:hover{
+	color:#fff ;
+	background-color: rgb(177, 49, 5) ;
+}
+.carousel-caption{
+	background:rgba(0,0,0,0.7) !important;
+	font-weight: bold;
+	text-transform:uppercase;
+}
+.footer>a{
+	color: white !important ;
+}
+.footer{
+	font-family:Algerian;
+}
+.noEvent{
+	color:red;
+	text-align:center;
+}
+.months{
+	background-color :rgb(135, 133, 61) ;
+	color: white;
+	font-family: Times New Roman;
+	text-align: center;
+	font-weight: bolder;
+	font-style: oblique;
+	font-size: 36px;
+}
+.artist{
+	margin-left: 10px;
+	height: 300px;
+	width: 750px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	
+}
+.detail{
+	font-family: Phyton Script Demo;
+	font-size: 24px;
+}
+.description{
+	font-family : Phyton Script Demo;
+	font-size: 24px;
+}
+.DownButton{
+	margin:25px;
+}
+footer{
+	margin: 30px;
+}
+.upload{
+	background-color: rgb(210,152,43);
+	font-family: Phyton Script Demo;
+	font-size: 24px;
+}
+.error{
+	background:rgb(239, 56, 60);
+	color:white;
+}
+.contactForm{
+	background: rgb(109, 64, 46);
+	color:white;
+	padding: 20px;
+	font-family: Comic Sans Ms;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.started{
+	margin-top: 10px;
+	margin-bottom: 8px;
+}
+.more{
+	float: right;
+	margin: 10px;
+}
+article{
+	margin: 4px;
+	margin-top: 0px;
+	margin-bottom:0px;
+	border: 4px outset rgb(177, 49, 5);
+	padding: 3px;
+}
+#whoWeAre{
+	background:#f4a460;
+	margin-top: 5px;
+	padding: 10px;
+	text-align: center;
+	font-family: Comic Sans Ms;
+	font-size: 17px;
+	word-spacing: 5px;
+}
+a:hover{
+	text-decoration:none;
+}
+#vicman{
+	text-align:center;
+	font-family: Comic Sans Ms;
+}
